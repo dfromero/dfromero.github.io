@@ -1,0 +1,135 @@
+{
+  "page 1": [
+    {
+      "Staff": "Cindy Egnatz",
+      "RU's": "6230",
+      "%": "50.00%",
+      "annual Hrs": "853",
+      "Units/mo": "239",
+      "$": "23.99",
+      "Rev/mo": "5730",
+      "Rev/yr": "68757"
+    },
+    {
+      "Staff": "Terri Griffith",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "1009",
+      "Units/mo": "283",
+      "$": "23.99",
+      "Rev/mo": "6,779",
+      "Rev/yr": "81,352"
+    },
+    {
+      "Staff": "Jeanne Hughan",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "997",
+      "Units/mo": "279",
+      "$": "23.99",
+      "Rev/mo": "6,694",
+      "Rev/yr": "80,332"
+    },
+    {
+      "Staff": "Kristen Maloney",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "994",
+      "Units/mo": "278",
+      "$": "23.99",
+      "Rev/mo": "6,680",
+      "Rev/yr": "80,155"
+    },
+    {
+      "Staff": "Kimberly Romito",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "1007",
+      "Units/mo": "282",
+      "$": "23.99",
+      "Rev/mo": "6,765",
+      "Rev/yr": "81,175"
+    },
+    {
+      "Staff": "Elyse Schneider",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "1002",
+      "Units/mo": "280",
+      "$": "23.99",
+      "Rev/mo": "6,728",
+      "Rev/yr": "80,731"
+    },
+    {
+      "Staff": "Jessica Shumaker",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "938",
+      "Units/mo": "263",
+      "$": "23.99",
+      "Rev/mo": "6,303",
+      "Rev/yr": "75,633"
+    },
+    {
+      "Staff": "Mary Smider",
+      "RU's": "6230",
+      "%": "50.00%",
+      "annual Hrs": "853",
+      "Units/mo": "239",
+      "$": "23.99",
+      "Rev/mo": "5,730",
+      "Rev/yr": "68,757"
+    },
+    {
+      "Staff": "Shane Religa",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "853",
+      "Units/mo": "239",
+      "$": "23.99",
+      "Rev/mo": "5,730",
+      "Rev/yr": "68,757"
+    },
+    {
+      "Staff": "Wall, Whitney Laine",
+      "RU's": "6230",
+      "%": "55.00%",
+      "annual Hrs": "0",
+      "$": "23.99"
+    },
+    {
+      "Staff": "Vacancy",
+      "RU's": "6230",
+      "%": "53.78%",
+      "annual Hrs": "994",
+      "Units/mo": "278",
+      "$": "23.99",
+      "Rev/mo": "6,677",
+      "Rev/yr": "80,123"
+    },
+    {
+      "RU's": "6230",
+      "annual Hrs": "0"
+    },
+    {
+      "annual Hrs": "0"
+    },
+    {
+      "Staff": "Total",
+      "annual Hrs": "8647"
+    },
+    {
+      "undefined": "SC course"
+    },
+    {
+      "Staff": "TCM Prog Target",
+      "RU's": "6230",
+      "%": "Buffer",
+      "annual Hrs": "7263",
+      "Units/mo": "2,421",
+      "$": "23.99",
+      "Rev/mo": "58,085",
+      "Rev/yr": "697,016"
+    }
+  ]
+}

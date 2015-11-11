@@ -1,0 +1,112 @@
+{
+  "page 1": [
+    {
+      "STAFF NAME": "Cindy Egnatz",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "38",
+      "TRAINING HRS": "0",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "130",
+      "TARGET BILLABLE HRS/UNITS": "68",
+      "ACTUAL BILLABLE HRS/UNITS": "96.8",
+      "VARIANCE": "28.8"
+    },
+    {
+      "STAFF NAME": "Jeanne Hughan",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "7",
+      "TRAINING HRS": "3",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "158",
+      "TARGET BILLABLE HRS/UNITS": "86.9",
+      "ACTUAL BILLABLE HRS/UNITS": "82.8",
+      "VARIANCE": "-4.1"
+    },
+    {
+      "STAFF NAME": "Terri Griffith",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "40",
+      "TRAINING HRS": "2",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "126",
+      "TARGET BILLABLE HRS/UNITS": "69.3",
+      "ACTUAL BILLABLE HRS/UNITS": "73.7",
+      "VARIANCE": "4.4"
+    },
+    {
+      "STAFF NAME": "Kristen Maloney",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "5",
+      "TRAINING HRS": "2",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "161",
+      "TARGET BILLABLE HRS/UNITS": "88.6",
+      "ACTUAL BILLABLE HRS/UNITS": "90.8",
+      "VARIANCE": "2.2"
+    },
+    {
+      "STAFF NAME": "Shane Religa",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "8",
+      "TRAINING HRS": "9",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "151",
+      "TARGET BILLABLE HRS/UNITS": "83",
+      "ACTUAL BILLABLE HRS/UNITS": "83",
+      "VARIANCE": "0"
+    },
+    {
+      "STAFF NAME": "Kimberly Romito",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "13",
+      "TRAINING HRS": "2",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "153",
+      "TARGET BILLABLE HRS/UNITS": "84.2",
+      "ACTUAL BILLABLE HRS/UNITS": "87.4",
+      "VARIANCE": "3.2"
+    },
+    {
+      "STAFF NAME": "Elyse Schneider",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "17",
+      "TRAINING HRS": "3",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "148",
+      "TARGET BILLABLE HRS/UNITS": "81.4",
+      "ACTUAL BILLABLE HRS/UNITS": "76.4",
+      "VARIANCE": "-5"
+    },
+    {
+      "STAFF NAME": "Mary Smider",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "55",
+      "TRAINING HRS": "0",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "113",
+      "TARGET BILLABLE HRS/UNITS": "56.5",
+      "ACTUAL BILLABLE HRS/UNITS": "57.5",
+      "VARIANCE": "1"
+    },
+    {
+      "STAFF NAME": "Jessica Shumaker",
+      "EMPLOYEE STATUS": "Full Time",
+      "HRS PAID": "168",
+      "PTO USED": "14",
+      "TRAINING HRS": "9",
+      "HOLIDAY HRS": "0",
+      "TOTAL HRS WORKED": "145",
+      "TARGET BILLABLE HRS/UNITS": "79.8",
+      "ACTUAL BILLABLE HRS/UNITS": "69.1",
+      "VARIANCE": "-10.7"
+    }
+  ]
+}

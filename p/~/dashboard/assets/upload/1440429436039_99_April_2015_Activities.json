@@ -1,0 +1,102 @@
+{
+  "Sheet1": [
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Boboige, Brenda",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "0",
+      "Expected Amount": "$0.00",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Boone, Paul",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "482",
+      "Expected Amount": "$12,291.00",
+      "Clients Serviced": "21",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Dendy, Eldora",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "203",
+      "Expected Amount": "$5,176.50",
+      "Clients Serviced": "17",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Dunlap, Kimberly",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "276",
+      "Expected Amount": "$6,783.00",
+      "Clients Serviced": "19",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Fetzer, Jill",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "273",
+      "Expected Amount": "$5,049.00",
+      "Clients Serviced": "13",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Greisinger, Elizabeth",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "270",
+      "Expected Amount": "$6,885.00",
+      "Clients Serviced": "30",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Mcneece, John",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "326",
+      "Expected Amount": "$8,262.00",
+      "Clients Serviced": "23",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Smaligo, Kelly",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "178",
+      "Expected Amount": "$4,437.00",
+      "Clients Serviced": "17",
+      "Total Activities": "0"
+    },
+    {
+      "RU Unit #": "320",
+      "Program": "Targeted Case Management",
+      "Staff": "Vanda, Nkokota",
+      "Month": "4",
+      "Year": "2015",
+      "Actual Bill Units": "199",
+      "Expected Amount": "$4,692.00",
+      "Clients Serviced": "21",
+      "Total Activities": "0"
+    }
+  ]
+}
